@@ -12,7 +12,8 @@ import lists
 
 sports_teams = [lists.football_teams, lists.baseball_teams, lists.basketball_teams]
 
-# Print out all the school lunches on the menu, but substitute Bratwurst wherever you see hot dogs
+# Print out all the school lunches on the menu, but substitute bratwurst 
+# wherever you see hot dogs
 # Use list comprehension. Just print the list directly so the output will
 # include the brackets and quotations (['item 1', item 2' ... and so on])
 
