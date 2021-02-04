@@ -3,7 +3,7 @@
 # This file contains several lists to be used for the assignment.
 # To use them in another Python file, you must import lists, and each
 # reference you make to one of the variables below must use the prefix "lists".
-# For example, to use school_lunches, you code will use "lists.school_lunches"
+# For example, to use school_lunches, your code will use "lists.school_lunches"
 
 
 school_lunches = ["hamburgers", "pizza", "hot dogs", "mac 'n cheese", "tacos", 
